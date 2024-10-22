@@ -1,0 +1,4 @@
+*.png
+receipts/
+.DStore
+private/
